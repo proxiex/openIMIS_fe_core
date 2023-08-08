@@ -14,6 +14,7 @@ import ConfirmDialog from "./dialogs/ConfirmDialog";
 import { bindActionCreators } from "redux";
 import Contributions from "./generics/Contributions";
 import LoginPage from "../pages/LoginPage";
+// import LoginPage from "../pages/OldLoginPage";
 import { useAuthentication } from "../helpers/hooks";
 import ForgotPasswordPage from "../pages/ForgotPasswordPage";
 import SetPasswordPage from "../pages/SetPasswordPage";
