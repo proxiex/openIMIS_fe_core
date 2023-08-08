@@ -1,6 +1,7 @@
 # openIMIS Frontend Core reference module
+why?
 
-This repository holds the files of the openIMIS Frontend Core reference module.
+This repository holds the files of the openIMIS Frontend Core reference module. 
 It is dedicated to be deployed as a module of [openimis-fe_js](https://github.com/openimis/openimis-fe_js) and provides
 
 - openIMIS core mechanisms (authentication,...)
